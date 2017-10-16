@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508166097 source:d:\rafa³ tarasewicz\cwiczenie3_2\cos\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<stdexcept>
+	<limits>
+
